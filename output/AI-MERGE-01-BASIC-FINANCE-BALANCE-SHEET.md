@@ -169,6 +169,38 @@ Most people are really good at question one. If they have to, they can do questi
 
 **Example: the helicopter crash that killed Kobe Bryant.** The pilot decided to fly the helicopter when he could not see, did not have (or could not read) the dials, and instead of stopping, pushed on and flew at a hundred and eighty miles an hour. When you go a hundred and eighty miles an hour and cannot see, somebody is going to die. That happens in businesses all the time: owners struggle, the team struggles, customers struggle, employees struggle, the financial statements are weak, and it is because nobody in the cockpit understands the dials. If you cannot see, slow down and hover. Do not stomp on the gas.
 
+### All markets go up and down
+
+**What it is**: Every market moves in a cycle, rising and then falling. The length of time from one peak (or trough) to the next is about ten years.
+
+**Why it matters**: This cycle explains why most businesses are only alive for two, five or ten years, and why ninety six percent of all businesses fail within that period. Businesses do not fail at random. They fail because the tide quit going up. Most businesses that survive two, five or ten years only survive that long because everything is good while the tide is rising. Rising markets hide bad flying. As soon as the tide starts going down, the owner discovers they do not know what to do, like a pilot who suddenly notices they are out of gas, looks at the altimeter, the compass and all the levers in the cockpit, and does not know which to use.
+
+### The fourteen-levers mistake
+
+**What it is**: When trouble hits, the untrained owner pulls many levers at once: cutting this, launching that, changing prices, changing staff, all at the same time.
+
+**Why it fails**: Throwing fourteen levers at one time sends the plane lurching around. Even if something changes, you have no idea which of those levers caused it. You cannot learn, you cannot repeat what worked, and you cannot undo what hurt. The fix is learning to read the dials, so you know which single lever to pull and can see its effect.
+
+### Off course, out of fuel, wrong altitude
+
+**What it is**: In practice, most businesses are off course, running out of fuel and flying at the wrong altitude. It is only a matter of time before they hit the mountain. In business, hitting the mountain is called a bankruptcy, a failure. Staying on course, at the right altitude and not running out of gas is what the dials are for.
+
+**Why it matters**: The real problem with bankruptcy is not that you lose your money. The problem is that you lose your time. The cost of a do-over is paid, first, in your confidence and, second, in your time.
+
+Wealth is created by compounding. Warren Buffett did not wake up one morning and go from zero to forty billion overnight. He has been at it thirty five, forty years, compounding his wealth and minimizing the number of do-overs he has had. Every failure resets the compounding clock to zero.
+
+Most entrepreneurs just ride the cycle: times are good, then they fail; the market comes back and they start another business; it lasts a while, the market goes back down, and they are back into failure again.
+
+### The carousel: making money vs keeping it
+
+**What it is**: The core lesson of the cycle: the trick is not making money when the tide is going up. The trick is keeping it when the tide is going down.
+
+**Why it works**: When the tide goes up, everybody gets rich. When the tide goes down, everybody gives it back. Then the tide goes up and everybody gets rich again, and the tide goes down and everybody gives it back again. People know how to ride the wave up, but not how to hold on to what they made. Everybody wants to teach you how to make money, and making money is about the easiest thing in the world. The skill that separates survivors is keeping it.
+
+**Example**: On a ten to fourteen day vacation in Italy (Milan, then Florence), after a full day of sightseeing among the Michelangelo and Leonardo da Vinci works, a couple sat at a coffee shop on the edge of a giant plaza, about eight times bigger than a hotel ballroom. On the far side was a carousel, the kind with little horses that go up and down and round and round, with a huge line of people waiting to get on. After both kept glancing at it, the wife asked, "What's that remind you of?" Her answer: "It reminds me of most people's lives. They just go up and down, up and down, and end up right back where they started." That is exactly what most people, and most businesses, do.
+
+**Pitfall**: Judging yourself by how much you made in a good market. Anyone can do that. The test is what is left after the downturn.
+
 ### Profits but no cash
 
 **What it is**: The classic symptom of missing optics. The reports usually exist (balance sheet, income statement, sometimes statement of cash flow), but owners look at them once a year, at tax time, and the only thing they pay attention to is how much tax they are paying.
@@ -393,6 +425,8 @@ Accountants have three report cards. They are the primary dials in your cockpit.
 - Whatever is left over: **profits**, also called net income, earnings or the bottom line.
 
 **Why the bottom line alone misleads**: Owners see the bottom-line number first and are happy or sad, then look at revenue and are happy or sad about that. But one business with revenue of 10 and expenses of 6 has 4 left over, and another with revenue of 1,000 and expenses of 996 also has 4 left over. Same bottom line. The bottom line is just the result of the two things above it. Only when you know the revenue and the expenses, and whether they are in the right relationship, do you know whether to be happy or sad about the 4. Without that context it is meaningless.
+
+**Financial statements vs the tax return**: Some owners never get financial statements. Instead, once a year, whether they need to or not, they look at their tax return. That is two bad ideas at once: looking at the numbers only once a year, and looking at a tax return to figure out what is going on in the business, when it does not tell you the information you need to know. Only fifty percent of business owners get financial statements. Of the fifty percent who get them, only three percent know how to read them. Those numbers look suspiciously like the business success ratio.
 
 **A movie, and a theory**: Unlike the balance sheet, the income statement is not a snapshot; it is a movie, covering a month, a quarter or a year. And it is a **theory**, a critical and important theory, because **you can't spend your profits. You can only spend cash.**
 
